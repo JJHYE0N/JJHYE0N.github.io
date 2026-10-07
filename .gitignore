@@ -1,0 +1,11 @@
+/_site/
+/.quarto/
+/.venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+__pycache__/
+*.pyc
+
+**/*.quarto_ipynb

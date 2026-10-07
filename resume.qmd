@@ -1,0 +1,19 @@
+---
+title: Resume
+subtitle: "Academic background and interests."
+toc: false
+---
+
+## Education
+
+**POSTECH**Computer Science
+
+## Interests
+
+Quantitative Finance · Investing · Technology
+
+::: {.quiet-panel}
+### Full resume forthcoming
+
+A verified resume will be added here. This page currently includes only the background provided for this portfolio.
+:::

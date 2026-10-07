@@ -1,0 +1,34 @@
+---
+title: "AI infrastructure: from demand to returns"
+description: "A planned investment memo on business quality, capital intensity, and valuation."
+categories: ["Investment Memo", "Planned"]
+author: Jaehyun Jung
+---
+
+::: {.status-note}
+PLANNED WORK · No completed results or implementation are claimed.
+:::
+
+## Central question
+
+Where does infrastructure demand translate into durable returns on capital?
+
+## Business and industry
+
+Map the value chain and identify where demand, pricing power, and competitive advantage may concentrate.
+
+## Thesis and evidence
+
+Separate observations from assumptions. Identify the evidence required to support or reject the thesis.
+
+## Valuation framework
+
+Build base, upside, and downside scenarios with explicit revenue, margin, reinvestment, and discount-rate assumptions.
+
+## Risks and disconfirming evidence
+
+Examine cyclicality, customer concentration, competition, capital intensity, and the gap between growth and cash generation.
+
+## Conclusion
+
+Pending company selection and source review. No investment recommendation is presented.

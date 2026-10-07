@@ -1,0 +1,26 @@
+---
+title: About
+subtitle: "Computer science, with a financial lens."
+---
+
+## Jaehyun Jung
+
+I study Computer Science at POSTECH and am interested in quantitative finance, investing, and technology.
+
+This portfolio brings those interests together: asking questions about financial markets, examining businesses and valuation, and building tools that make analysis more reliable.
+
+## What you will find here
+
+- **Research:** hypotheses, data, empirical methods, and limitations.
+- **Investments:** business analysis, investment memos, and PE / VC cases.
+- **Projects:** engineering work supporting research and financial analysis.
+
+## How I approach the work
+
+Questions should be specific. Assumptions should be visible. Results should be interpreted in the context of the data and the method used to obtain them.
+
+::: {.quiet-panel}
+This site is at its starting point. Completed work, experience, and contact links will be added as they are ready to share.
+:::
+
+[Explore the research agenda →](research/index.qmd)

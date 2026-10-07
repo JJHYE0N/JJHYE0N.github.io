@@ -1,0 +1,24 @@
+---
+title: Investments
+subtitle: "Businesses, valuation, and capital allocation."
+toc: false
+listing:
+  contents: posts/**/index.qmd
+  type: default
+  sort: title
+  fields: [title, description, categories]
+  categories: true
+  sort-ui: false
+  filter-ui: false
+---
+
+Investment memos and PE / VC cases connecting a clear thesis to assumptions, risks, and valuation.
+
+::: {.quiet-panel}
+The collection below contains planned work. Completed analyses and implementation details will appear as each piece is developed.
+:::
+
+## Planned work
+
+::: {#listing}
+:::

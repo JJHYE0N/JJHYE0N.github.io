@@ -1,0 +1,34 @@
+---
+title: "Korean equity momentum"
+description: "A research agenda for evaluating cross-sectional momentum after realistic trading costs."
+categories: ["Quant Research", "Planned"]
+author: Jaehyun Jung
+---
+
+::: {.status-note}
+PLANNED WORK · No completed results or implementation are claimed.
+:::
+
+## Central question
+
+How sensitive is Korean equity momentum to universe selection, rebalancing, and transaction costs?
+
+## Hypothesis
+
+Examine whether a past-return ranking contains information about subsequent returns. No hypothesis has been tested yet.
+
+## Data plan
+
+Define a point-in-time equity universe, price and volume data, corporate-action adjustments, and delisting treatment. Record sources and usage rights.
+
+## Methodology plan
+
+Specify lookback and holding periods before testing. Compare the strategy with appropriate benchmarks and separate development and evaluation periods.
+
+## Robustness and limitations
+
+Test universe changes, turnover, transaction costs, liquidity screens, and subperiod stability. Address survivorship bias and look-ahead bias.
+
+## Results
+
+Pending data collection and analysis. No performance results are available.

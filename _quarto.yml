@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "research/**/*.qmd"
+    - "investments/**/*.qmd"
+    - "projects/**/*.qmd"
+    - "!templates/**"
+  resources:
+    - assets/
+website:
+  title: "Jaehyun Jung"
+  description: "POSTECH Computer Science — Quantitative Finance, Investing & Technology."
+  favicon: assets/favicon.svg
+  search: true
+  navbar:
+    title: "JJ / Jaehyun Jung"
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research/index.qmd
+        text: Research
+      - href: investments/index.qmd
+        text: Investments
+      - href: projects/index.qmd
+        text: Projects
+      - href: about.qmd
+        text: About
+    right:
+      - href: resume.qmd
+        text: Resume
+  page-footer:
+    left: "© 2026 Jaehyun Jung"
+    right: "Technology × Data × Financial Markets"
+format:
+  html:
+    theme: cosmo
+    css: assets/styles.css
+    toc: true
+    toc-title: On this page
+    lang: en
+    code-copy: true
+    code-fold: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    respect-user-color-scheme: false
+execute:
+  freeze: auto

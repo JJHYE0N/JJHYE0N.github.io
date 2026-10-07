@@ -1,0 +1,35 @@
+---
+title: "Replace with title"
+description: "Replace with a one-sentence summary"
+author: Jaehyun Jung
+categories: ["Engineering Project"]
+draft: true
+---
+
+## Problem and scope
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## Architecture
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## Implementation
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## Setup and usage
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## Validation and tests
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## Tradeoffs and limitations
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## Code and next steps
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->

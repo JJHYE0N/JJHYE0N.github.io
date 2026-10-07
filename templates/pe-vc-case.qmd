@@ -1,0 +1,43 @@
+---
+title: "Replace with title"
+description: "Replace with a one-sentence summary"
+author: Jaehyun Jung
+categories: ["Pe Vc Case"]
+draft: true
+---
+
+## Case overview and date
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## Transaction or investment context
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## Business and market
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## PE: financing and value creation
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## VC: adoption, unit economics, and dilution
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## Returns and sensitivities
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## Downside and diligence questions
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## Investment committee conclusion
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## Sources
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->

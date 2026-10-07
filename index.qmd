@@ -1,0 +1,93 @@
+---
+title: "Jaehyun Jung"
+pagetitle: "Jaehyun Jung | Quant, Finance & Technology"
+title-block-style: none
+toc: false
+page-layout: full
+---
+
+::: {.hero}
+::: {.eyebrow}
+POSTECH · COMPUTER SCIENCE
+:::
+
+# Jaehyun Jung
+
+::: {.hero-statement}
+Technology. Data.Financial markets.
+:::
+
+::: {.hero-description}
+Interested in quantitative finance, investing, and the systems that connect ideas to evidence.
+:::
+
+[Explore research](research/index.qmd){.btn .btn-primary} [About me ↗](about.qmd){.text-link}
+:::
+
+::: {.section-heading}
+## Areas of focus
+
+Three perspectives. One analytical foundation.
+:::
+
+::: {.focus-grid}
+::: {.focus-card}
+[01 / RESEARCH]{.eyebrow}
+
+### Quantitative research
+
+Testable questions about returns, risk, and market behavior. A place for data, methods, and reproducible analysis.
+
+[View research →](research/index.qmd)
+:::
+::: {.focus-card}
+[02 / INVESTMENTS]{.eyebrow}
+
+### Investment judgment
+
+Businesses, valuation, and capital allocation. Investment memos and private-market cases built around explicit assumptions.
+
+[View investments →](investments/index.qmd)
+:::
+::: {.focus-card}
+[03 / ENGINEERING]{.eyebrow}
+
+### Systems that work
+
+The pipelines and tools behind reliable analysis. Engineering projects with clear design choices and practical documentation.
+
+[View projects →](projects/index.qmd)
+:::
+:::
+
+::: {.section-heading}
+## On the horizon
+
+The first collection is taking shape. These are planned studies, not completed findings.
+:::
+
+::: {.work-row}
+[Research agenda]{.eyebrow}
+
+### [Korean equity momentum](research/posts/korean-equity-momentum/index.qmd)
+
+How sensitive is a momentum signal to universe selection, trading costs, and rebalancing?
+:::
+::: {.work-row}
+[Investment memo · planned]{.eyebrow}
+
+### [AI infrastructure: from demand to returns](investments/posts/ai-infrastructure/index.qmd)
+
+An outline for connecting industry demand to business quality, valuation, and downside scenarios.
+:::
+::: {.work-row}
+[Engineering · planned]{.eyebrow}
+
+### [Financial data pipeline](projects/posts/financial-data-pipeline/index.qmd)
+
+A project brief for consistent data ingestion, validation, and research-ready datasets.
+:::
+
+::: {.closing-note}
+A growing notebook of questions, analysis, and things built along the way.
+:::

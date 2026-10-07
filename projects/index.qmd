@@ -1,0 +1,24 @@
+---
+title: Projects
+subtitle: "Building the tools behind the analysis."
+toc: false
+listing:
+  contents: posts/**/index.qmd
+  type: default
+  sort: title
+  fields: [title, description, categories]
+  categories: true
+  sort-ui: false
+  filter-ui: false
+---
+
+Engineering projects for financial data, research workflows, and reliable systems.
+
+::: {.quiet-panel}
+The collection below contains planned work. Completed analyses and implementation details will appear as each piece is developed.
+:::
+
+## Planned work
+
+::: {#listing}
+:::

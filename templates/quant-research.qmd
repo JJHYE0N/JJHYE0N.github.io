@@ -1,0 +1,43 @@
+---
+title: "Replace with title"
+description: "Replace with a one-sentence summary"
+author: Jaehyun Jung
+categories: ["Quant Research"]
+draft: true
+---
+
+## Abstract
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## Research question and hypothesis
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## Data and provenance
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## Methodology
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## Results
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## Robustness checks
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## Limitations
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## Reproducibility and code
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->
+
+## References
+
+<!-- Write this section. Cite sources and distinguish assumptions from findings. -->

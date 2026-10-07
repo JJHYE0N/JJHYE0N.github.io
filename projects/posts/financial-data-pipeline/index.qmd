@@ -1,0 +1,34 @@
+---
+title: "Financial data pipeline"
+description: "A project brief for reproducible ingestion, validation, and research-ready datasets."
+categories: ["Engineering Project", "Planned"]
+author: Jaehyun Jung
+---
+
+::: {.status-note}
+PLANNED WORK · No completed results or implementation are claimed.
+:::
+
+## Central question
+
+How can financial data be made traceable, consistent, and easy to use in research?
+
+## Problem and scope
+
+Define the datasets and analysis workflows before choosing an implementation. The pipeline has not yet been built.
+
+## Architecture plan
+
+Separate source ingestion, raw storage, validation, normalization, and curated datasets.
+
+## Reliability plan
+
+Check duplicate records, missing timestamps, schema changes, units, and corporate-action handling. Preserve lineage and ingestion logs.
+
+## Delivery plan
+
+Document setup, data permissions, usage examples, failure handling, and meaningful tests. Add a code repository when implementation begins.
+
+## Status
+
+Implementation, tests, and benchmarks are pending.

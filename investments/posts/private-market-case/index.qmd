@@ -1,0 +1,34 @@
+---
+title: "Private markets: a PE / VC case framework"
+description: "A planned case study spanning buyout economics and venture investment judgment."
+categories: ["PE / VC Case", "Planned"]
+author: Jaehyun Jung
+---
+
+::: {.status-note}
+PLANNED WORK · No completed results or implementation are claimed.
+:::
+
+## Central question
+
+What would make an investment attractive, and what could break the underwriting?
+
+## Case selection
+
+Select a company and state whether the case is a buyout or a venture investment. Use public information with dated sources.
+
+## PE analysis
+
+Outline entry valuation, financing, operating improvements, debt repayment, exit assumptions, and return sensitivities.
+
+## VC analysis
+
+Outline market size, customer adoption, competitive advantage, unit economics, dilution, and funding requirements.
+
+## Investment committee discussion
+
+Present the key decision, downside conditions, diligence questions, and reasons to pass.
+
+## Status
+
+Case selection and analysis are pending. No transaction or professional deal experience is implied.
