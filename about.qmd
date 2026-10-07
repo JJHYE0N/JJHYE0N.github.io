@@ -3,7 +3,7 @@ title: About
 subtitle: "Computer science, with a financial lens."
 ---
 
-## Jaehyun Jung
+## Jaehyeon Jeong
 
 I study Computer Science at POSTECH and am interested in quantitative finance, investing, and technology.
 

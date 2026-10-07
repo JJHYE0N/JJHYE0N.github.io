@@ -2,7 +2,7 @@
 title: "Private markets: a PE / VC case framework"
 description: "A planned case study spanning buyout economics and venture investment judgment."
 categories: ["PE / VC Case", "Planned"]
-author: Jaehyun Jung
+author: Jaehyeon Jeong
 ---
 
 ::: {.status-note}

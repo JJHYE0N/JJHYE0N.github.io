@@ -1,6 +1,6 @@
 ---
-title: "Jaehyun Jung"
-pagetitle: "Jaehyun Jung | Quant, Finance & Technology"
+title: "Jaehyeon Jeong"
+pagetitle: "Jaehyeon Jeong | Quant, Finance & Technology"
 title-block-style: none
 toc: false
 page-layout: full
@@ -11,7 +11,7 @@ page-layout: full
 POSTECH · COMPUTER SCIENCE
 :::
 
-# Jaehyun Jung
+# Jaehyeon Jeong
 
 ::: {.hero-statement}
 Technology. Data.Financial markets.

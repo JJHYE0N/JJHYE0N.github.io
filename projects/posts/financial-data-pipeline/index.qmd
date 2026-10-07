@@ -2,7 +2,7 @@
 title: "Financial data pipeline"
 description: "A project brief for reproducible ingestion, validation, and research-ready datasets."
 categories: ["Engineering Project", "Planned"]
-author: Jaehyun Jung
+author: Jaehyeon Jeong
 ---
 
 ::: {.status-note}

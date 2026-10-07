@@ -2,7 +2,7 @@
 title: "Korean equity momentum"
 description: "A research agenda for evaluating cross-sectional momentum after realistic trading costs."
 categories: ["Quant Research", "Planned"]
-author: Jaehyun Jung
+author: Jaehyeon Jeong
 ---
 
 ::: {.status-note}

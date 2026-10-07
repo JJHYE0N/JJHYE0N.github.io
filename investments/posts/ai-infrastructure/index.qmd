@@ -2,7 +2,7 @@
 title: "AI infrastructure: from demand to returns"
 description: "A planned investment memo on business quality, capital intensity, and valuation."
 categories: ["Investment Memo", "Planned"]
-author: Jaehyun Jung
+author: Jaehyeon Jeong
 ---
 
 ::: {.status-note}

@@ -1,7 +1,7 @@
 ---
 title: "Replace with title"
 description: "Replace with a one-sentence summary"
-author: Jaehyun Jung
+author: Jaehyeon Jeong
 categories: ["Quant Research"]
 draft: true
 ---

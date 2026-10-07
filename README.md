@@ -1,6 +1,10 @@
-# Jaehyun Jung — Quant / Finance Portfolio
+# Jaehyeon Jeong — Quant / Finance Portfolio
 
 Quarto portfolio for POSTECH Computer Science, quantitative finance, investing, and technology.
+
+Repository: https://github.com/JJHYE0N/JJHYE0N.github.io
+
+Site: https://jjhye0n.github.io/
 
 ## Local preview
 

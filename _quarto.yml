@@ -10,12 +10,14 @@ project:
   resources:
     - assets/
 website:
-  title: "Jaehyun Jung"
+  site-url: https://jjhye0n.github.io
+  repo-url: https://github.com/JJHYE0N/JJHYE0N.github.io
+  title: "Jaehyeon Jeong"
   description: "POSTECH Computer Science — Quantitative Finance, Investing & Technology."
   favicon: assets/favicon.svg
   search: true
   navbar:
-    title: "JJ / Jaehyun Jung"
+    title: "JJ / Jaehyeon Jeong"
     pinned: true
     left:
       - href: index.qmd
@@ -29,10 +31,13 @@ website:
       - href: about.qmd
         text: About
     right:
+      - icon: github
+        href: https://github.com/JJHYE0N
+        aria-label: GitHub profile
       - href: resume.qmd
         text: Resume
   page-footer:
-    left: "© 2026 Jaehyun Jung"
+    left: "© 2026 Jaehyeon Jeong"
     right: "Technology × Data × Financial Markets"
 format:
   html:
